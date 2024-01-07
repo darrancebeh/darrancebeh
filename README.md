@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Darrance Beh and I'm a Student, from Sunway University, Malaysia</h2>
+<h1 align="center">Hi 👋, I'm Darrance Beh</h1>
+<h3 align="center">aspiring Full-Stack Software Engineer</h3>
 
 ###
 
