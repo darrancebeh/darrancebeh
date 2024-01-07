@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darrance Beh</h1>
+<h1 align="center">Hi 👋, I'm Darrance Beh Heng Shek</h1>
 <h3 align="center">aspiring Full-Stack Software Engineer</h3>
 
 ###
