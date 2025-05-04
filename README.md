@@ -38,7 +38,6 @@
   <a href="https://www.instagram.com/darrancebeh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=/darrancebeh&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=darrance&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:darrancebeh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=darrancebeh@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
